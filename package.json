@@ -1,5 +1,5 @@
 {
-  "name": "pretty-console",
+  "name": "conpop",
   "version": "1.0.0",
   "description": "A colorful console printing library",
   "main": "dist/index.js",

@@ -1,15 +1,16 @@
 {
-  "name": "conpop",
-  "version": "1.0.0",
+  "name": "@souravhere/conpop",
+  "version": "1.1.0",
   "description": "A colorful console printing library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": "https://github.com/Souravhere/conpop" ,
   "scripts": {
     "build": "tsc",
     "prepublish": "npm run build"
   },
   "keywords": ["console", "print", "color", "typescript"],
-  "author": "Sourav Chhimpa",
+  "author": "Sourav Chhimpa <souravchhimpa1@gmail.com> (https://thenextlabs.com)",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.11.25",

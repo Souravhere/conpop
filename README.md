@@ -7,7 +7,7 @@ A fun, lightweight library to make your console logs burst with style! Created b
 Pop it into your project with one command:
 
 ```bash
-npm install @souravchhimpa1/conpop
+npm install @souravhere/conpop
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Turn boring logs into eye-candy with just a few lines. Check out these vibes:
 ### JavaScript Vibes
 
 ```javascript
-const { ConsolePrinter } = require('@souravchhimpa1/conpop');
+const { ConsolePrinter } = require('@souravhere/conpop');
 
 const data = {
     content: ['Party Time!', 'Dance', 'Groove'],
@@ -35,7 +35,7 @@ ConsolePrinter.clear(); // Wipe the dance floor clean!
 ### TypeScript Swagger
 
 ```typescript
-import { ConsolePrinter, PrintData } from '@souravchhimpa1/conpop';
+import { ConsolePrinter, PrintData } from '@souravhere/conpop';
 
 const data: PrintData = {
     content: 'Hello, World!',
@@ -60,7 +60,7 @@ ConsolePrinter.print(data); // Boom—styled logs!
 
 ## Quick Start
 
-1. Install with `npm install @souravchhimpa1/conpop`.
+1. Install with `npm install @souravhere/conpop`.
 2. Import `ConsolePrinter` and toss in your data.
 3. Watch your console light up like a disco ball!
 
@@ -86,6 +86,6 @@ MIT - Free to remix, share, and pop off however you like!
 Got ideas to make ConPop pop harder? Hit me up:
 
 - [thenextlabs.com](https://thenextlabs.com)
-- npm: [@souravchhimpa1](https://www.npmjs.com/~souravchhimpa1)
+- npm: [@souravhere](https://www.npmjs.com/~souravchhimpa1)
 
 Let’s make coding colorful together!

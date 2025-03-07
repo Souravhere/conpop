@@ -89,25 +89,3 @@ Got ideas to make ConPop pop harder? Hit me up:
 - npm: [@souravchhimpa1](https://www.npmjs.com/~souravchhimpa1)
 
 Let’s make coding colorful together!
-
-## Notes
-
-Update your `package.json` with:
-
-```json
-{
-    "name": "@souravchhimpa1/conpop",
-    "version": "1.0.0",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
-    "author": "Sourav Chhimpa <your-email@example.com> (https://thenextlabs.com)",
-    "repository": "https://github.com/souravchhimpa1/conpop"
-}
-```
-
-Publish it:
-
-```bash
-npm run build
-npm publish --access public
-```
